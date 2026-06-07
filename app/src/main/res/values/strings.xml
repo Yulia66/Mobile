@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PlaylistMaker</string>
+    
+    <!-- Главный экран -->
+    <string name="app_main_title">Плейлист Мейкер</string>
+    <string name="main_btn_search">Открыть поиск</string>
+    <string name="main_btn_settings">Открыть настройки</string>
+    
+    <!-- Экран поиска -->
+    <string name="search_title">Поиск треков</string>
+    <string name="search_placeholder">Введите название...</string>
+    <string name="search_empty_hint">Начните вводить текст для поиска</string>
+    <string name="search_error">Не удалось загрузить: %s</string>
+    
+    <!-- Экран настроек -->
+    <string name="settings_title">Параметры</string>
+    <string name="share_app">Поделиться программой</string>
+    <string name="support">Связаться с разработчиками</string>
+    <string name="user_agreement">Условия использования</string>
+
+    <!-- Данные для интентов -->
+    <string name="share_text">https://practicum.yandex.ru/android-developer/</string>
+    <string name="email">mr.kir2004@gmail.com</string>
+    <string name="email_subject">Письмо создателям Playlist Maker</string>
+    <string name="email_body">Огромное спасибо за отличное приложение!</string>
+    <string name="agreement_url">https://yandex.ru/legal/practicum_offer/</string>
+</resources>
